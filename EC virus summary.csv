@@ -1,0 +1,64 @@
+Test,Pathogen,Treatment,Reduction,logR,logR_SD,logR_SE
+Baseline,FCV,beef broth,Total,2.38,0.13,0.07
+Baseline,FCV,beef broth,Irreversible,0,0.37,0.21
+Baseline,FCV,beef broth,Reversible,2.38,0.39,0.23
+Baseline,ADV,beef broth,Total,1.17,0.66,0.38
+Baseline,ADV,beef broth,Irreversible,0,0,0
+Baseline,ADV,beef broth,Reversible,1.17,0.66,0.38
+Baseline,ECV,beef broth,Total,0.88,0.63,0.36
+Baseline,ECV,beef broth,Irreversible,0.24,0.05,0.03
+Baseline,ECV,beef broth,Reversible,0.63,0.63,0.36
+pH 6,FCV,beef broth,Total,1.4,0.5,0.29
+pH 6,FCV,beef broth,Irreversible,0.27,0.29,0.17
+pH 6,FCV,beef broth,Reversible,1.13,0.58,0.33
+pH 6,ADV,beef broth,Total,0.78,0.3,0.17
+pH 6,ADV,beef broth,Irreversible,0.7,0.25,0.14
+pH 6,ADV,beef broth,Reversible,0.08,0.39,0.23
+pH 6,ECV,beef broth,Total,1.55,0.48,0.28
+pH 6,ECV,beef broth,Irreversible,0.73,0.09,0.05
+pH 6,ECV,beef broth,Reversible,0.83,0.49,0.28
+pH 8,FCV,beef broth,Total,0.42,0.08,0.04
+pH 8,FCV,beef broth,Irreversible,0.21,0.17,0.1
+pH 8,FCV,beef broth,Reversible,0.22,0.19,0.11
+pH 8,ADV,beef broth,Total,2.28,0.41,0.24
+pH 8,ADV,beef broth,Irreversible,0.08,0,0
+pH 8,ADV,beef broth,Reversible,2.19,0.41,0.24
+pH 8,ECV,beef broth,Total,0.38,0.19,0.11
+pH 8,ECV,beef broth,Irreversible,0.51,0.29,0.17
+pH 8,ECV,beef broth,Reversible,-0.13,0.35,0.2
+NOM,FCV,beef broth,Total,0.72,0.2,0.12
+NOM,FCV,beef broth,Irreversible,0.08,0.18,0.1
+NOM,FCV,beef broth,Reversible,0.63,0.27,0.15
+NOM,ADV,beef broth,Total,0.63,0.34,0.2
+NOM,ADV,beef broth,Irreversible,0.17,0.17,0.1
+NOM,ADV,beef broth,Reversible,0.47,0.38,0.22
+NOM,ECV,beef broth,Total,0.2,0,0
+NOM,ECV,beef broth,Irreversible,0.13,0.23,0.13
+NOM,ECV,beef broth,Reversible,0.07,0.23,0.13
+Turbidity,FCV,beef broth,Total,2,0.29,0.17
+Turbidity,FCV,beef broth,Irreversible,0.03,0.06,0.03
+Turbidity,FCV,beef broth,Reversible,1.97,0.3,0.17
+Turbidity,ADV,beef broth,Total,3.96,0.14,0.08
+Turbidity,ADV,beef broth,Irreversible,0.13,0.34,0.2
+Turbidity,ADV,beef broth,Reversible,3.96,0.14,0.08
+Turbidity,ECV,beef broth,Total,0.63,0.14,0.08
+Turbidity,ECV,beef broth,Irreversible,-0.18,0.2,0.12
+Turbidity,ECV,beef broth,Reversible,0.81,0.25,0.14
+Chloride,FCV,beef broth,Total,2.3,0.61,0.35
+Chloride,FCV,beef broth,Irreversible,0.83,0.63,0.36
+Chloride,FCV,beef broth,Reversible,1.47,0.88,0.51
+Chloride,ADV,beef broth,Total,4.71,0,0
+Chloride,ADV,beef broth,Irreversible,0.67,0.2,0.12
+Chloride,ADV,beef broth,Reversible,4.04,0.2,0.12
+Chloride,ECV,beef broth,Total,2.5,0,0
+Chloride,ECV,beef broth,Irreversible,0.58,0.29,0.17
+Chloride,ECV,beef broth,Reversible,1.92,0.29,0.17
+CCC-FeCl2,FCV,beef broth,Total,0.56,0.1,0.06
+CCC-FeCl2,FCV,beef broth,Irreversible,0,0.78,0.45
+CCC-FeCl2,FCV,beef broth,Reversible,0.56,0.79,0.45
+CCC-FeCl2,ADV,beef broth,Total,1.68,0.06,0.03
+CCC-FeCl2,ADV,beef broth,Irreversible,0.13,0.42,0.24
+CCC-FeCl2,ADV,beef broth,Reversible,1.55,0.42,0.24
+CCC-FeCl2,ECV,beef broth,Total,1.11,0.32,0.18
+CCC-FeCl2,ECV,beef broth,Irreversible,0.03,0.46,0.26
+CCC-FeCl2,ECV,beef broth,Reversible,1.08,0.56,0.32
